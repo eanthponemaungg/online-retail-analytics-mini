@@ -5,5 +5,5 @@ online retail analytics mini dashboard
 try it yourself (test accounts)
 - admin account: 
   username: Admin, password: Admin*@123*@
-- user account : 
+- user account: 
   username: User, password: User*@456*@ 
